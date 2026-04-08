@@ -1,7 +1,7 @@
 1) Data Collection ->
 Two datasets were used:
-Fake.csv → Fake news articles
-True.csv → Real news articles
+Fake.csv - Fake news articles
+True.csv - Real news articles
 
 2️) Data Preprocessing-> 
 Merged datasets
