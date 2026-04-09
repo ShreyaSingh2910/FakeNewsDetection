@@ -10,7 +10,7 @@ Removed unnecessary columns
 Converted labels into numerical format.
 
 3) Feature Extraction -> 
-Text data was converted into numerical features using TF-IDF (Term Frequency – Inverse Document Frequency) and N-Grams.
+Text data was converted into numerical features using TF-IDF (Term Frequency – Inverse Document Frequency) .
 
 4️) Model Training ->
 Two machine learning models were used:
