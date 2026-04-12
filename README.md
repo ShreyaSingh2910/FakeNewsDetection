@@ -4,9 +4,9 @@ Fake.csv - Fake news articles
 True.csv - Real news articles
 
 2. Data Preprocessing ->
-Merged datasets
-Cleaned text data
-Removed unnecessary columns
+Merged datasets, 
+Cleaned text data, 
+Removed unnecessary columns, 
 Converted labels into numerical format.
 
 3. Feature Extraction -> 
@@ -20,3 +20,11 @@ These models learn patterns in text to classify news articles.
 
 5. Deployment -> 
 The trained model was deployed using Streamlit, allowing users to input a news headline or article and instantly check whether it is Fake or Real.
+
+
+Technology Stack used ->
+Python (Pandas), MYSQL, Scikit-learn, NLP, TF-IDF, ML Algos (Naive Bayes and Logistic Regression), Streamlit
+
+
+Result ->
+Achieved 92% accuracy using Naive Bayes and 98% accuracy in fake news classification. 
