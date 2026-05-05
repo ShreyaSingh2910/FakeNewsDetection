@@ -27,4 +27,4 @@ Python (Pandas), MYSQL, Scikit-learn, NLP, TF-IDF, ML Algos (Naive Bayes and Log
 
 
 Result ->
-Achieved 92% accuracy using Naive Bayes and 98% accuracy in fake news classification. 
+Achieved 92% accuracy using Naive Bayes and 98% accuracy using Logistic Regression in fake news classification. 
